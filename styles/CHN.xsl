@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- This style is Modified By Calvin Neo -->
+<!-- This style is Modified By Calvin Neo Chinese journal style standard-->
 <!-- ref www.calvinneo.com -->
 <!-- ref https://github.com/CalvinNeo/Citation4Word/ -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt"
